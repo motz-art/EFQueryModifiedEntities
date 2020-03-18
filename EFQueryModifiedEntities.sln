@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFQueryModifiedEntities", "EFQueryModifiedEntities\EFQueryModifiedEntities.csproj", "{FE19F53E-460A-4151-952F-D41462D11585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE19F53E-460A-4151-952F-D41462D11585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE19F53E-460A-4151-952F-D41462D11585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE19F53E-460A-4151-952F-D41462D11585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE19F53E-460A-4151-952F-D41462D11585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A5145DD-D3AE-4A89-86E3-45B7A251A992}
+	EndGlobalSection
+EndGlobal
